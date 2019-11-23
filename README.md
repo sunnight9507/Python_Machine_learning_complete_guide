@@ -19,6 +19,12 @@
 
 ### 5장
 
+- 회귀(Regression)
+
 ### 6장
 
+- 차원 축소(Dimension Reduction)
+
 ### 7장
+
+- 군집화(Clustering)
