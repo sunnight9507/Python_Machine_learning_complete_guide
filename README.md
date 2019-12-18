@@ -12,7 +12,13 @@
 
 #### 3장 : 평가(Evaluation)
 
+- 평가 : 정확도(Accuracy), 정밀도(Precision), 재현율(Recall), F1 Score
+- Trade-off / Binarizer / precision_recall_curve
+- ROC Curve / AUC
+
 #### 4장 : 분류(Classification)
+
+- 결정트리(Decision Tree) / 과적합(Overfitting)
 
 #### 5장 : 회귀(Regression)
 
