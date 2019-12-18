@@ -21,7 +21,9 @@
 - 결정트리(Decision Tree) / 과적합(Overfitting)
 - 앙상블 학습(Ensemble) : Bagging, Boosting
 - Bagging : Voting(Hard, Soft), RandomForest
-- Boosting : GradientBoost, AdaBoost, XGBoost
+- Boosting : GradientBoost, AdaBoost, XGBoost, LightGBM
+- 비대칭데이터 : Over-Sampling, Under-Sampling
+- Stacking
 
 #### 5장 : 회귀(Regression)
 
