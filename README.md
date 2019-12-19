@@ -27,6 +27,11 @@
 
 #### 5장 : 회귀(Regression)
 
+- Gradient Descent / SGD(stochastic gradient descent) / OLS(Ordinary least squares)
+- Linear Regression / Polynomial Regression / Logistic regression / Regression tree
+- Pipeline
+- Regularized Linear Model : Ridge, Lasso, Elastic Net
+
 #### 6장 : 차원 축소(Dimension Reduction)
 
 #### 7장 : 군집화(Clustering)
