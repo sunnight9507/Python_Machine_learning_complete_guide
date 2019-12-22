@@ -41,3 +41,10 @@
 
 - 종류 : K-Means / Mean Shift / GMM(Gaussian Mixture Model) / DBSCAN
 - 군집화 평가 : silhouette_score
+
+#### 8장 : 텍스트 분석
+
+- NLP(National Language Processing) / Test Mining
+- Process : 전처리 / 벡터화 / 학습,예측,평가
+- 전처리 : Cleansing / Tokenization / Stop words / Stemming / Lemmatization
+- 벡터화 : BOW(Bag of Words) / CountVectorizer / TF-IDF / 희소행렬(COO, CSR)
