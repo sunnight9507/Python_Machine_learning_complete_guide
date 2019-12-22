@@ -34,4 +34,10 @@
 
 #### 6장 : 차원 축소(Dimension Reduction)
 
+- PCA(Principal Component Analysis) / LDA(Linear Discriminant Analysis)
+- SVD(Singular Value Decomposition) / NMF(Non-negative matrix factorization)
+
 #### 7장 : 군집화(Clustering)
+
+- 종류 : K-Means / Mean Shift / GMM(Gaussian Mixture Model) / DBSCAN
+- 군집화 평가 : silhouette_score
