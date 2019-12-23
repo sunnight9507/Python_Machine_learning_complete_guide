@@ -47,4 +47,7 @@
 - NLP(National Language Processing) / Test Mining
 - Process : 전처리 / 벡터화 / 학습,예측,평가
 - 전처리 : Cleansing / Tokenization / Stop words / Stemming / Lemmatization
-- 벡터화 : BOW(Bag of Words) / CountVectorizer / TF-IDF / 희소행렬(COO, CSR)
+- 벡터화 : BOW(Bag of Words) - CountVectorizer, TF-IDF -> 희소행렬 - COO, CSR
+- 감성분석 : SentiWordNet / Vader
+- 토픽 모델링 : LSA(Latent Semantic Analysis) / LDA(Latent Dirichlet Allocation)
+- 문서 군집화
