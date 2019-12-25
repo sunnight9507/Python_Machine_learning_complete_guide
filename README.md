@@ -51,3 +51,4 @@
 - 감성분석 : SentiWordNet / Vader
 - 토픽 모델링 : LSA(Latent Semantic Analysis) / LDA(Latent Dirichlet Allocation)
 - 문서 군집화
+- 문서 유사도 : Cosine Similarity / Jaccard Similarity
