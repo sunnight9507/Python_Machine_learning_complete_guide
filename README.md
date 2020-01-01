@@ -56,3 +56,4 @@
 #### 9장 : 추천시스템
 
 - 방식 : Content Based Filtering / Collaborative Filtering
+- Collaborative Filtering : Nearest Neighbor(User, Item CF) / Latent Factor(Matrix Factorization)
