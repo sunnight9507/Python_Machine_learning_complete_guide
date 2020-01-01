@@ -52,3 +52,5 @@
 - 토픽 모델링 : LSA(Latent Semantic Analysis) / LDA(Latent Dirichlet Allocation)
 - 문서 군집화
 - 문서 유사도 : Cosine Similarity / Jaccard Similarity
+
+#### 9장 : 추천시스템
