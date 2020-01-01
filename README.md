@@ -54,3 +54,5 @@
 - 문서 유사도 : Cosine Similarity / Jaccard Similarity
 
 #### 9장 : 추천시스템
+
+- 방식 : Content Based Filtering / Collaborative Filtering
