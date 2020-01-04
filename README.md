@@ -57,3 +57,4 @@
 
 - 방식 : Content Based Filtering / Collaborative Filtering
 - Collaborative Filtering : Nearest Neighbor(User, Item CF) / Latent Factor(Matrix Factorization)
+- SVD 추천 알고리즘
